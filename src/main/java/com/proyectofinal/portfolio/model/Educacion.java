@@ -2,13 +2,7 @@ package com.proyectofinal.portfolio.model;
 
 import javax.persistence.*;
 import java.io.Serializable;
-//import lombok.AllArgsConstructor;
-//import lombok.Data;
-//import lombok.NoArgsConstructor;
 
-//@Data
-//@AllArgsConstructor
-//@NoArgsConstructor
 @Entity
 public class Educacion implements Serializable {
     @Id 
